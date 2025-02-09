@@ -3,7 +3,6 @@
 Welcome to your **first GitHub challenge**! This is your chance to explore **version control**, set up your own **repository**, and personalize it as your **first step** toward building real-world projects.  
 
 
-
 ## ✅ **Your Mission**  
 Your task is to **take ownership of this repo**, make it your own, and submit it for review. Along the way, you’ll:  
 - **Set up** your repository so it belongs to you.  
@@ -13,18 +12,12 @@ Your task is to **take ownership of this repo**, make it your own, and submit it
 
 ---
 
-## 🎯 **What Success Looks Like**  
-- Your repository **exists under your GitHub account** and contains your updates.  
-- The README file **introduces you properly** and is free of placeholders.  
-- The **original challenge title is removed** and replaced with something that reflects your personal project.  
-- You have **committed and pushed** at least 3 updates.  
-- You have **submitted your repo link to the LMS** as required.  
-
-
 ### ✅ **Pre-Submission Checklist**  
 
 Before submitting your project, ensure the following:  
-- ⚠️ Here is an example repo name: `Module_02_StudentNo_Classcode_Group_Name-Surname_SDF01`.  ⚠️
+
+- [ ] Your repository **exists under your GitHub account** and contains your updates.  
+- [ ] The README file **introduces you properly** and is free of placeholders.  
 - [ ] **Repo Name Follows the Correct Format** (Includes student number, group, and coach name)  
 - [ ] **Challenge Title is Removed** (Replace with a personalized title)  
 - [ ] **README is Updated** (No placeholders; it reflects your learning journey)  
@@ -35,6 +28,7 @@ Double-check everything before submitting—**no second chances for first impres
 
 ## 🚨 **HOW to submit your project** 🚨
 
+- Make sure to rename your repo with your details ⚠️ Here is an example repo name: `Module_02_StudentNo_Classcode_Group_Name-Surname_SDF01`.  ⚠️
 
 - [ ] Submit your GitHub Repo link through the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 
