@@ -11,7 +11,7 @@ Your task is to **take ownership of this repo**, make it your own, and submit it
 - **Commit and push** your changes to ensure they are saved and visible.  
 - **Submit your completed project** through the correct channels.  
 
-
+---
 
 ## 🎯 **What Success Looks Like**  
 - Your repository **exists under your GitHub account** and contains your updates.  
@@ -19,7 +19,6 @@ Your task is to **take ownership of this repo**, make it your own, and submit it
 - The **original challenge title is removed** and replaced with something that reflects your personal project.  
 - You have **committed and pushed** at least 3 updates.  
 - You have **submitted your repo link to the LMS** as required.  
-
 
 
 ### ✅ **Pre-Submission Checklist**  
@@ -36,10 +35,9 @@ Double-check everything before submitting—**no second chances for first impres
 
 ## 🚨 **HOW to submit your project** 🚨
 
-1. Rename your project with your student number, group number and coach name. 
+- [ ] Rename your project with your student number, group number and coach name. 
 - ⚠️ Here is an example repo name: Module_02_StudentNo_Classcode_Group_Name-Surname_SDF01 ⚠️
-
-2. Submit your GitHub Repo link through the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
+- [ ] Submit your GitHub Repo link through the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 
 ---
 
