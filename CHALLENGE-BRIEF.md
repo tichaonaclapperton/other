@@ -40,3 +40,10 @@ Double-check everything before submitting—**no second chances for first impres
 
 ## 🚀 **Next Steps**  
 Take this opportunity to familiarize yourself with GitHub and commit to using it in your learning journey. If you run into challenges, reflect on what’s unclear and seek guidance from your Coach where needed. **This is just the beginning!**
+
+
+### 🎉 **Congrats on Submitting Your First Challenge!** 🎉  
+
+You’ve just taken your **first real step** in using Git and GitHub, one of the most essential tools in modern software development! By completing this challenge, you’ve learned how to take ownership of your code, make meaningful updates, and successfully push your work for the world to see.  
+
+Every great developer **started exactly where you are now**, and this is just the beginning. Keep building, keep committing, and keep learning—your future projects will only get more exciting from here. **Well done!**
