@@ -24,7 +24,7 @@ Your task is to **take ownership of this repo**, make it your own, and submit it
 ### ✅ **Pre-Submission Checklist**  
 
 Before submitting your project, ensure the following:  
-
+- ⚠️ Here is an example repo name: `Module_02_StudentNo_Classcode_Group_Name-Surname_SDF01`.  ⚠️
 - [ ] **Repo Name Follows the Correct Format** (Includes student number, group, and coach name)  
 - [ ] **Challenge Title is Removed** (Replace with a personalized title)  
 - [ ] **README is Updated** (No placeholders; it reflects your learning journey)  
@@ -35,8 +35,7 @@ Double-check everything before submitting—**no second chances for first impres
 
 ## 🚨 **HOW to submit your project** 🚨
 
-- ⚠️ Here is an example repo name: Module_02_StudentNo_Classcode_Group_Name-Surname_SDF01 ⚠️
-- [ ] Rename your project with your student number, group number and coach name. 
+
 - [ ] Submit your GitHub Repo link through the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 
 ---
