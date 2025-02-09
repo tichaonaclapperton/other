@@ -8,7 +8,7 @@ Your task is to **take ownership of this repo**, make it your own, and submit it
 - **Set up** your repository so it belongs to you.  
 - **Customize** your README to reflect who you are as a developer.  
 - **Commit and push** your changes to ensure they are saved and visible.  
-- **Submit your completed project** through the correct channels.  
+- **Submit your completed project** on the [**[Projects Tab](https://learn.codespace.co.za/projects)**]  
 
 ---
 
