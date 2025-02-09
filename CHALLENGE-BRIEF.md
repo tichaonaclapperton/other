@@ -1,11 +1,5 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-Here is your **challenge brief** for **SDF01: My First Repo**. This will guide students through their first interaction with **GitHub**, ensuring they properly clone, personalize, and submit their project. 
-
----
-
-# 🚀 **SDF01: My First Repo Challenge** 
-
 Welcome to your first **GitHub challenge**! This is where you’ll take your first step into version control by **cloning a repo, personalizing it, and pushing your changes**. By the end of this challenge, you’ll have your very own **GitHub repository** set up with a customized README.
 
 ---
