@@ -13,23 +13,27 @@ Your task is to **take ownership of this repo**, make it your own, and submit it
 
 ---
 
-## 🚨 **Submission Instructions**  
-Make sure your project **follows the correct naming format**, is publicly available, and is submitted through the LMS. Your README should be **personalized** and **cleaned up** to reflect your work.  
-
----
-
 ## 🎯 **What Success Looks Like**  
 - Your repository **exists under your GitHub account** and contains your updates.  
 - The README file **introduces you properly** and is free of placeholders.  
 - The **original challenge title is removed** and replaced with something that reflects your personal project.  
-- You have **committed and pushed** at least one update.  
-- You have **submitted your repo link** as required.  
+- You have **committed and pushed** at least 3 updates.  
+- You have **submitted your repo link to the LMS** as required.  
 
 ---
 
-## 🚀 **Next Steps**  
-Take this opportunity to familiarize yourself with GitHub and commit to using it in your learning journey. If you run into challenges, reflect on what’s unclear and seek guidance where needed. **This is just the beginning!**
+### ✅ **Pre-Submission Checklist**  
 
+Before submitting your project, ensure the following:  
+
+- [ ] **Repo Name Follows the Correct Format** (Includes student number, group, and coach name)  
+- [ ] **Challenge Title is Removed** (Replace with a personalized title)  
+- [ ] **README is Updated** (No placeholders; it reflects your learning journey)  
+- [ ] **At Least One Commit & Push is Made** (Your changes are saved on GitHub)  
+- [ ] **Repo is Public & Accessible** (Ensure the link works before submission)  
+- [ ] **Correct GitHub Link is Submitted via LMS**  
+
+Double-check everything before submitting—**no second chances for first impressions!** 🚀
 
 ## 🚨 **HOW to submit your project** 🚨
 
@@ -38,3 +42,7 @@ Take this opportunity to familiarize yourself with GitHub and commit to using it
 
 2. Submit your GitHub Repo link through the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 
+---
+
+## 🚀 **Next Steps**  
+Take this opportunity to familiarize yourself with GitHub and commit to using it in your learning journey. If you run into challenges, reflect on what’s unclear and seek guidance from your Coach where needed. **This is just the beginning!**
