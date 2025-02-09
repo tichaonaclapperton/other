@@ -12,6 +12,10 @@ Your task is to **take ownership of this repo**, make it your own, and submit it
 
 ---
 
+### 🎯 **What Success Looks Like**  
+
+A well-structured, professional-looking repository that clearly represents **you and your work**, follows the correct naming conventions, includes an updated README, and is successfully pushed to GitHub and submitted via the LMS. 🚀
+
 ### ✅ **Pre-Submission Checklist**  
 
 Before submitting your project, ensure the following:  
