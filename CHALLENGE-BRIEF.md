@@ -30,7 +30,7 @@ Before submitting your project, ensure the following:
 
 Double-check everything before submitting—**no second chances for first impressions!** 🚀
 
-## 🚨 **HOW to submit your project** 🚨
+## 🚨 **How to submit your Challenge** 🚨
 
 - Make sure to rename your repo with your details ⚠️ Here is an example repo name: `Module_02_StudentNo_Classcode_Group_Name-Surname_SDF01`.  ⚠️
 
