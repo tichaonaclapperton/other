@@ -2,7 +2,7 @@
 
 Welcome to your **first GitHub challenge**! This is your chance to explore **version control**, set up your own **repository**, and personalize it as your **first step** toward building real-world projects.  
 
----
+
 
 ## ✅ **Your Mission**  
 Your task is to **take ownership of this repo**, make it your own, and submit it for review. Along the way, you’ll:  
@@ -11,7 +11,7 @@ Your task is to **take ownership of this repo**, make it your own, and submit it
 - **Commit and push** your changes to ensure they are saved and visible.  
 - **Submit your completed project** through the correct channels.  
 
----
+
 
 ## 🎯 **What Success Looks Like**  
 - Your repository **exists under your GitHub account** and contains your updates.  
@@ -20,7 +20,7 @@ Your task is to **take ownership of this repo**, make it your own, and submit it
 - You have **committed and pushed** at least 3 updates.  
 - You have **submitted your repo link to the LMS** as required.  
 
----
+
 
 ### ✅ **Pre-Submission Checklist**  
 
@@ -30,8 +30,7 @@ Before submitting your project, ensure the following:
 - [ ] **Challenge Title is Removed** (Replace with a personalized title)  
 - [ ] **README is Updated** (No placeholders; it reflects your learning journey)  
 - [ ] **At Least One Commit & Push is Made** (Your changes are saved on GitHub)  
-- [ ] **Repo is Public & Accessible** (Ensure the link works before submission)  
-- [ ] **Correct GitHub Link is Submitted via LMS**  
+- [ ] **Repo is Public & Accessible** (Ensure the link works before submission)   
 
 Double-check everything before submitting—**no second chances for first impressions!** 🚀
 
